@@ -10,10 +10,15 @@ A interface foi desenvolvida com identidade visual inspirada no cardápio da mar
 
 ## 📸 Preview
 
-Depois, utilize:
+Confira abaixo uma prévia da landing page do **Açaí Corujão**:
 
-<img src="assets/preview.webp" alt="Preview da landing page Açaí Corujão">
-
+<p align="center">
+    <img
+        src="assets/preview.webp"
+        alt="Preview da landing page Açaí Corujão"
+        width="100%"
+    >
+</p>
 ---
 
 ## 🚀 Funcionalidades
