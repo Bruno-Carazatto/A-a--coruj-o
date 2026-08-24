@@ -8,19 +8,6 @@ A interface foi desenvolvida com identidade visual inspirada no cardápio da mar
 
 ---
 
-## 📸 Preview
-
-Confira abaixo uma prévia da landing page do **Açaí Corujão**:
-
-<p align="center">
-    <img
-        src="assets/preview.webp"
-        alt="Preview da landing page Açaí Corujão"
-        width="100%"
-    >
-</p>
----
-
 ## 🚀 Funcionalidades
 
 - 📱 Layout totalmente responsivo
