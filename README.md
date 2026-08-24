@@ -10,18 +10,9 @@ A interface foi desenvolvida com identidade visual inspirada no cardápio da mar
 
 ## 📸 Preview
 
-> Adicione aqui uma captura de tela da página depois que o projeto estiver publicado.
-
-```text
-assets/
-└── preview.webp
-```
-
 Depois, utilize:
 
-```html
 <img src="assets/preview.webp" alt="Preview da landing page Açaí Corujão">
-```
 
 ---
 
